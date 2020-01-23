@@ -9,9 +9,6 @@ import MoreScreen from './screens/more-scr';
 import HomeScreen from './screens/home-scr';
 
 
-
-
-  
 const TabNavigator = createBottomTabNavigator(  
     {  
       Home:{  
