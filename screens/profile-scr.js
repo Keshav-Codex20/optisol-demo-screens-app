@@ -114,10 +114,11 @@ const styles = StyleSheet.create({
   	borderRadius:4,
 
   },
-  socialMediaText:{fontSize:15,
-  fontWeight:'bold',
-  marginLeft:15,
-  marginTop:10,
+  socialMediaText:{
+    fontSize:15,
+    fontWeight:'bold',
+    marginLeft:15,
+    marginTop:10,
   },
 
   SectionStyle: {
